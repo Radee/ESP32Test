@@ -49,8 +49,8 @@ WebServer server(80);
 
 #define DBG_OUTPUT_PORT Serial
 
-const char* ssid = "BP6DF";
-const char* password = "ABBAABBA00";
+const char* ssid = "TripMateSith-49FC";
+const char* password = "11111111";
 const char* host = "ESP32Wyolum";
 
 //holds the current upload
